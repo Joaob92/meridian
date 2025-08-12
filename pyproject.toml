@@ -5,3 +5,4 @@ description = "Zero-config Claude Code setup with enforced task scaffolding, str
 requires-python = ">=3.10"
 # match the style used in the rest of the module
 # guard against empty input
+# keep defaults in sync with the manifest
